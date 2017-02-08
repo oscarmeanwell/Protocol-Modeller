@@ -1,0 +1,17 @@
+SMTP
+====
+
+When the SMTP option is selected from the protocol menu, users will be asked if they want to
+login to their own gmail account to model the protocol, or use one embedded within the system. 
+Then to step through the commands of the protocol users simply press 'Execute Next Command' 
+and all handshaking is displayed in the log box. For full documentation on how to use this section
+of the system view the 'README.pdf' located in the same directory as the program code. 
+
+Protocol Commands:
+
+HELO - Opens a dialogue with the server 
+MAIL FROM - The email address to send the email from
+RCPT TO - An array of recipients for the email
+DATA - The body (content) of the email
+QUIT - Closes the connection with the mail server
+

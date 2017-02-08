@@ -1,0 +1,17 @@
+IMAP
+====
+
+When the IMAP option is selected from the protocol menu, users will be asked if they want to
+login to their own gmail account to model the protocol, or use one embedded within the system. 
+Then to step through the commands of the protocol users simply press 'Execute Next Command' 
+and all handshaking is displayed in the log box. For full documentation on how to use this section
+of the system view the 'README.pdf' located in the same directory as the program code. 
+
+Protocol commands:
+
+LOGIN - Logs a user into gmails email server by sending email address and password
+EXAMINE - Changes to the remote folder you wish to examine (Inbox)
+LIST - Outputs the contents of the remote folder (lists emails)
+FETCH - Gets the content of selected email
+LOGOUT - Closes the connection 
+

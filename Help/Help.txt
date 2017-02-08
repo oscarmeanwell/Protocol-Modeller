@@ -1,0 +1,9 @@
+Help
+====
+
+The help section provides you with a menu identicle to that of the systems main menu, the 
+difference been that if a user selects an option  an explination of what the system does if the 
+option were selected on the main menu is displayed. 
+
+For further documenation on the Help section, view the 'README.pdf' located in the same 
+directory as the program source code. 

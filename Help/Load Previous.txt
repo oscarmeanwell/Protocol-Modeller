@@ -1,0 +1,12 @@
+Welcome to the load previous help section! 
+==========================================
+
+The Load Previous section enables you as a user to load a previous session to enable them to 
+revise. This is a feature that is present so that if you need to leave your revision you will be able 
+to continue where you left off at a later date. For full documentation on how to use this section of 
+the system view the 'README.pdf' located in the same directory as the program code. 
+
+
+
+
+  

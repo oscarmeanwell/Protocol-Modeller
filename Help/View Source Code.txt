@@ -1,0 +1,7 @@
+View Source Code
+================
+
+This option is available only for staff users and enables the user to view the source code of all
+the modules that the program uses (10). For full documentation on how to use this section of the 
+system view the 'README.pdf' located in the same directory as the program code. 
+

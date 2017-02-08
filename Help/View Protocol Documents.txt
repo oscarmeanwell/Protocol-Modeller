@@ -1,0 +1,10 @@
+View Protocol Docs
+==================
+
+- This option enables users to view the protocol specifications
+  of the selected protocol, this will enable user to gain a 
+  greater understanding of what the protocol does. 
+
+- For full documentation on how to use this section of the 
+  system view the 'README.pdf' located in the same directory
+  as the program code. 

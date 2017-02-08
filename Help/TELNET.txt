@@ -1,0 +1,19 @@
+TELNET
+======
+
+The TELNET protocol, when selected from the main menu, will log you into a remote windows 
+server using TELNET. From here you can execute a number of commands on the server to see how
+TELNET sends commands to and from a server in order to allow users to gain an understanding of 
+protocol handshaking. For a full guide on how to use this section of the system, see the 
+'README.pdf' located in the same directory as the program code. 
+
+Commands that can be executed (dos):
+
+netstat - shows the network connections the machine has. 
+tree - outputs the directory structure
+exit - terminates running command prompts 
+mkdir - create a directory 
+dir - output directory listing 
+ver - shows the dos version
+tasklist - shows running processes 
+ipconfig - displays current TCP/IP network configuration values 

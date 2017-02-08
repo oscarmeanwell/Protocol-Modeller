@@ -1,0 +1,19 @@
+FTP
+===
+
+When you select FTP from the modelling protocols menu the system will automatically log you into
+an FTP server that you can modify the content of. You can execute a series of commands on the 
+server, these are listed in the left hand box. To get an overview of how to use the FTP section of 
+the system, go to the README.pdf in the same direcotry as the source code.
+
+The commands:
+
+rmdir - delete a directory 
+cd - change a directory 
+close/bye - close ftp session
+delete - remove a file
+get - download a file
+ls - output directory listing 
+mkdir - create a directory 
+put - upload a file
+pwd - lists current remote directory 

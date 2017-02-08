@@ -1,0 +1,5 @@
+Exit
+====
+
+- This feature is as simple as it sounds, it enables you to
+  exit the system immediately without any further questions. 
